@@ -1,0 +1,26 @@
+h3{
+	font-size: 16pt;
+	background-color: #4C6AFF;
+	text-align: center;
+}
+p{
+	font-size: 14pt;
+	padding-bottom: 25px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+body{
+	background-color: #D6DDFF;
+	background-attachment: scroll;
+	margin: 45px;
+}
+div{
+	margin: auto;
+	background-color: #A5B4FF;
+	width: 800px;
+	height: auto;
+}
+.head{
+	font-size: 32pt;
+	text-align: center;
+}
